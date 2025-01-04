@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋  I'm David Jason.</h1>
 <h3 align="center">I am a tech-lover, passionate about both hardware and software.</h3>
-
+        
 <h3 align="center">A Bit About Me 🌟</h3>
 <p align="center">I love diving into problem-solving challenges, exploring open-source projects, and constantly learning new technologies. 
   When I’m not coding, you might find me tinkering with mechanics and 3D printing and design, experimenting with gadgets, or brushing up on my favorite fantasy novels. 🚀</p>
@@ -15,8 +15,7 @@
     
 ---
    
-   
-<p align="center"><em>“An idiot admires complexity, a genius admires simplicity.” – Terry Davis</em></p>
+<p align="center"><em>“An idiot admires complexity, a genius admires simplicity.” – Terry Davis (1969 - 2018)</em></p>
 
 ---
 
