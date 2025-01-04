@@ -8,11 +8,17 @@
 <p align="center">I am an IT Technician on the verge of officially transitioning into a career as a Software Developer. 
   Throughout my journey, I’ve had the privilege of working with a diverse array of technologies and tools, 
   while also building connections with many fascinating and talented individuals.</p>
-
+   
+---
 <h3 align="center">My languages 💬</h3>
 <p align="center">🇮🇹 Italian, 🇪🇸 Spanish and 🇬🇧 English</p>
+    
+---
    
-<p align="center"><em>“The simplest thing that works is the best.” – Terry Davis</em></p>
+   
+<p align="center"><em>“An idiot admires complexity, a genius admires simplicity.” – Terry Davis</em></p>
+
+---
 
 <h3 align="left">My Current Goals 🎯</h3>
 <ul>
