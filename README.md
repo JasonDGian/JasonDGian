@@ -7,7 +7,7 @@
   
 <p align="center">I am an IT Technician on the verge of officially transitioning into a career as a Software Developer. 
   Throughout my journey, I’ve had the privilege of working with a diverse array of technologies and tools, 
-  while also building connections with many fascinating and talented individuals.</p>
+  while also building connections with many fascinating and talented individuals, many of whom have left an uneraseable mark within me.</p>
    
 ---
 <h3 align="center">My languages 💬</h3>
