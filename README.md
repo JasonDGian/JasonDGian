@@ -45,7 +45,7 @@
 <img align=left width="60px" src="https://github.com/user-attachments/assets/86ce31df-9cf1-469b-a9ea-b8bfadfa01dc" >
 The Remote Projector app allows users to control their projector from any location via a mobile or web interface. With a user-friendly design and secure connectivity, it enhances convenience for classrooms, offices, and home theaters alike.
    
-### [Quality of Life mods for Project Zombiod](https://github.com/JasonDGian/ProjectZomboid)
+### [Quality of Life mods for Project Zomboid](https://github.com/JasonDGian/ProjectZomboid)
 <img align=left width="60px" src="https://github.com/user-attachments/assets/370175e2-627a-4c74-83d5-34c638cd2cd0" >
 This repository contains a collection of custom mods designed to enhance and expand gameplay in Project Zomboid. The mods range from quality-of-life improvements to new items, mechanics, and balance tweaks, all aimed at enriching the survival experience.
 
