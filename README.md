@@ -5,9 +5,9 @@
 <p align="center">I love diving into problem-solving challenges, exploring open-source projects, and constantly learning new technologies. 
   When I’m not coding, you might find me tinkering with mechanics and 3D printing and design, experimenting with gadgets, or brushing up on my favorite fantasy novels. 🚀</p>
   
-<p align="center">I am an IT Technician on the verge of officially transitioning into a career as a Software Developer. 
+<p align="center">I am an IT Technician and I officially transitioned into a career as a Software Developer. 
   Throughout my journey, I’ve had the privilege of working with a diverse array of technologies and tools, 
-  while also building connections with many fascinating and talented individuals, many of whom have left an uneraseable mark within me.</p>
+  while also building connections with many fascinating and talented individuals oh different backgrounds and expertise, many of whom have left an uneraseable mark within me.</p>
    
 ---
 <h3 align="center">💬 My languages 💬</h3>
